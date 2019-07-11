@@ -1,4 +1,4 @@
-package com.qulix.cs.fundamentals.optionalTask4;
+package com.qulix.cs.fundamentals.optional4;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package com.qulix.cs.fundamentals.optionalTask1;
+package com.qulix.cs.fundamentals.optional1;
 
 public class ReverseNumbers {
     public static void main(String[] args) {

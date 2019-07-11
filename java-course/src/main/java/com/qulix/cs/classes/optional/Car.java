@@ -1,4 +1,4 @@
-package com.qulix.cs.classes;
+package com.qulix.cs.classes.optional;
 
 public class Car {
     private static int counter = 0;

@@ -1,4 +1,4 @@
-package com.qulix.cs.fundamentals.optionalTask2;
+package com.qulix.cs.fundamentals.optional2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
